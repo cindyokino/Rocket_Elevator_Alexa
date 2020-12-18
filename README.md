@@ -4,7 +4,7 @@ At Rocket Elevators a new project has been funded to improve accessibility to in
 
 Alexa's functionality starts with a voice brief that allows an employee to inquire about the status of the elevator network deployed and operated by Rocket Elevators.
 
-Hey Alexa, What is going on at Rocket Elevators?
+### Hey Alexa, What is going on at Rocket Elevators?
 
 The type of information that Alexa must present to her interlocutor includes the following:
 ```
