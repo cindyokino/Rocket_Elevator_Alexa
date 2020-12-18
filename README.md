@@ -4,7 +4,8 @@ At Rocket Elevators a new project has been funded to improve accessibility to in
 
 Alexa's functionality starts with a voice brief that allows an employee to inquire about the status of the elevator network deployed and operated by Rocket Elevators.
 
-### Hey Alexa, What is going on at Rocket Elevators?
+## Here is an example of a few questions you can ask to Alexa:
+### rocket elevator
 
 The type of information that Alexa must present to her interlocutor includes the following:
 ```
@@ -15,4 +16,32 @@ XXX Batteries are deployed across XXX cities
 On another note you currently have XXX quotes awaiting processing
 You also have XXX leads in your contact requests
 ```
-https://developer.amazon.com/alexa/console/ask/test/amzn1.ask.skill.be015d4f-fbea-4404-984f-d8c460729106/development/en_CA/
+
+## All the questions you can ask to Alexa about general information on rocket Elevator:
+"what's new at rocket elevators"\
+"what is new at rocket elevators"\
+"what is happening at rocket elevators"\
+"what's happening at rocket elevators"\
+"what's going on at rocket elevators"\
+"what is going on at rocket elevators"
+
+
+## All the questions you can ask to Alexa about the status of an elevator:
+what is the status of elevator 1
+Can you tell me the status of elevator 5
+
+
+## Informations regarding a specific elevator:
+What's going on with elevator 1
+Tell me about elevator 3
+
+
+## Informations regarding a specific customer:
+Who is customer 5
+What's the information for customer 6
+Tell me about the customer 2
+
+
+# See more at the video:
+
+VIDEO HERE
