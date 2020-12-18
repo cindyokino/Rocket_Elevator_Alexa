@@ -5,17 +5,7 @@ At Rocket Elevators a new project has been funded to improve accessibility to in
 Alexa's functionality starts with a voice brief that allows an employee to inquire about the status of the elevator network deployed and operated by Rocket Elevators.
 
 ## Here is an example of a few questions you can ask to Alexa:
-### rocket elevator
-
-The type of information that Alexa must present to her interlocutor includes the following:
-```
-Greetings
-There are currently XXX elevators deployed in the XXX buildings of your XXX customers
-Currently, XXX elevators are not in Running Status and are being serviced
-XXX Batteries are deployed across XXX cities
-On another note you currently have XXX quotes awaiting processing
-You also have XXX leads in your contact requests
-```
+rocket elevator
 
 ## All the questions you can ask to Alexa about general information on rocket Elevator:
 "what's new at rocket elevators"\
